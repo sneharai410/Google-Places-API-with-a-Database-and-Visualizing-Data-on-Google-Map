@@ -1,1 +1,1 @@
-# pythonproject just learning to use git hub here , stating my first program
+# pythonproject just learning to use git hub here , starting my first program
